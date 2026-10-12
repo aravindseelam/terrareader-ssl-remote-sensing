@@ -14,8 +14,8 @@ A deep learning capstone project: a ResNet-18 is pretrained **without labels** o
 tiles using **SimCLR**, then fine-tuned with only a small fraction of labels to classify land cover.
 Served as a web app (FastAPI + PyTorch) in a Docker container.
 
-**Live demo:** `https://ssl-low-label-remote-sensing-analysis.onrender.com`  
- **Code:** `<paste your GitHub URL here>`
+**Live demo:** [here](https://ssl-low-label-remote-sensing-analysis.onrender.com)  
+ **Code:** [here](https://github.com/aravindseelam/terrareader-ssl-remote-sensing/blob/main/deployment/app.py)
 
 ## Key result
 

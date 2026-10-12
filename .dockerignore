@@ -1,0 +1,9 @@
+data/
+docs/
+results/
+scripts/
+evaluate/
+.git/
+__pycache__/
+*.pyc
+checkpoints/ssl_backbone_*.pt
